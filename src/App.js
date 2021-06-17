@@ -25,8 +25,7 @@ class App extends Component {
       fUrl,
     })
   }
-  
-  const a=1
+
   render() {
     return (
       <div className="App">
